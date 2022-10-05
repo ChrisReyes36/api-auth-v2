@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS passport_api;
+
+CREATE DATABASE IF NOT EXISTS passport_api CHARACTER SET "utf8" COLLATE "utf8_spanish2_ci";
